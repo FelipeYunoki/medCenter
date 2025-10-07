@@ -1,6 +1,6 @@
 # medCenter
 
-**MedCenter** é uma aplicação web desenvolvida com foco em gestão de clínicas e centros médicos. O sistema permite o gerenciamento de pacientes, agendamentos, profissionais da saúde e outros recursos essenciais para o funcionamento de uma clínica.
+**MedCenter** é uma aplicação web desenvolvida com foco em gestão de clínicas e centros médicos. O sistema permite o agendamentos.
 
 ## 🛠 Tecnologias Utilizadas
 
